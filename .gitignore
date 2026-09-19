@@ -1,0 +1,9 @@
+/dist/
+/leakradar-cli
+/leakradar-cli.exe
+*.pdf
+*.csv
+.env
+config.json
+/smoketest.sh
+/AGENTS.md
