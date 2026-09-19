@@ -1,7 +1,6 @@
 # leakradar-cli
 
 [![CI](https://github.com/s-w-1-t-c-h/leakradar-cli/actions/workflows/ci.yml/badge.svg)](https://github.com/s-w-1-t-c-h/leakradar-cli/actions/workflows/ci.yml)
-[![Go Report Card](https://goreportcard.com/badge/github.com/s-w-1-t-c-h/leakradar-cli)](https://goreportcard.com/report/github.com/s-w-1-t-c-h/leakradar-cli)
 [![Latest release](https://img.shields.io/github/v/release/s-w-1-t-c-h/leakradar-cli)](https://github.com/s-w-1-t-c-h/leakradar-cli/releases)
 [![Go version](https://img.shields.io/github/go-mod/go-version/s-w-1-t-c-h/leakradar-cli)](go.mod)
 [![License](https://img.shields.io/github/license/s-w-1-t-c-h/leakradar-cli)](LICENSE)
