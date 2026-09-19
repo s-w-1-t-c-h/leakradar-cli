@@ -1,9 +1,11 @@
 ![leakradar-cli](assets/header.png)
 
-[![CI](https://github.com/s-w-1-t-c-h/leakradar-cli/actions/workflows/ci.yml/badge.svg)](https://github.com/s-w-1-t-c-h/leakradar-cli/actions/workflows/ci.yml)
-[![Latest release](https://img.shields.io/github/v/release/s-w-1-t-c-h/leakradar-cli)](https://github.com/s-w-1-t-c-h/leakradar-cli/releases)
-[![Go version](https://img.shields.io/github/go-mod/go-version/s-w-1-t-c-h/leakradar-cli)](go.mod)
-[![License](https://img.shields.io/github/license/s-w-1-t-c-h/leakradar-cli)](LICENSE)
+<p align="center">
+  <a href="https://github.com/s-w-1-t-c-h/leakradar-cli/actions/workflows/ci.yml"><img src="https://github.com/s-w-1-t-c-h/leakradar-cli/actions/workflows/ci.yml/badge.svg" alt="CI"></a>
+  <a href="https://github.com/s-w-1-t-c-h/leakradar-cli/releases"><img src="https://img.shields.io/github/v/release/s-w-1-t-c-h/leakradar-cli" alt="Latest release"></a>
+  <a href="go.mod"><img src="https://img.shields.io/github/go-mod/go-version/s-w-1-t-c-h/leakradar-cli" alt="Go version"></a>
+  <a href="LICENSE"><img src="https://img.shields.io/github/license/s-w-1-t-c-h/leakradar-cli" alt="License"></a>
+</p>
 
 A cross-platform (Linux/macOS/Windows) command-line client for the
 [LeakRadar](https://leakradar.io) breach/leak-intelligence API
