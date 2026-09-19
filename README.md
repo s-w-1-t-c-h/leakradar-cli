@@ -1,4 +1,4 @@
-# leakradar-cli
+![leakradar-cli](assets/header.png)
 
 [![CI](https://github.com/s-w-1-t-c-h/leakradar-cli/actions/workflows/ci.yml/badge.svg)](https://github.com/s-w-1-t-c-h/leakradar-cli/actions/workflows/ci.yml)
 [![Latest release](https://img.shields.io/github/v/release/s-w-1-t-c-h/leakradar-cli)](https://github.com/s-w-1-t-c-h/leakradar-cli/releases)
